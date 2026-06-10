@@ -1,6 +1,6 @@
 # Marketing with AI by Tom Babb
 
-Marketing is being repriced. Marketing is being repriced. I want to show you why.
+Marketing is being repriced. I want to show you why.
 
 The people who win are not going to be the ones who generate the most content. They are going to be the ones who can segment and differentiate while everyone else drowns in sameness. That is the whole argument. This repo is where I put the skills that make it real.
 
