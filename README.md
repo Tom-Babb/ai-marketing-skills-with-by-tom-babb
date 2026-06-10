@@ -1,6 +1,6 @@
 # Marketing with AI by Tom Babb
 
-Marketing is being repriced to near zero.
+Marketing is being repriced. Marketing is being repriced. I want to show you why.
 
 The people who win are not going to be the ones who generate the most content. They are going to be the ones who can segment and differentiate while everyone else drowns in sameness. That is the whole argument. This repo is where I put the skills that make it real.
 
@@ -124,7 +124,7 @@ These ideas are documented but not yet built into full skills.
 
 ## About
 
-I am Tom Babb, Director of Marketing at [Gauntlet AI](https://www.gauntletai.com) and the first marketing hire there. I also run an AI-first marketing consultancy. I broke my neck at 19 in Maui in 2015, so I use a wheelchair, and I am an open book about it.
+I am Tom Babb, Director of Marketing at [Gauntlet AI](https://www.gauntletai.com) and the first marketing hire there. I also run an AI-first side projects. I broke my neck at 19 in Maui in 2015, so I use a wheelchair, and I am an open book about it.
 
 I am not nervous about what is coming in this industry. I know what is coming, and I would rather be the person creating far more value than everyone else than the person who got blindsided. A lot of people are going to get blindsided. This repo is how I build in public.
 
