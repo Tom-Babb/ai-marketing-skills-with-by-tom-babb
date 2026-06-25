@@ -50,9 +50,9 @@ Using an inspiration library and Claude Design, you can go from a rough directio
 
 A brand guide tells you what the brand is. A brand operating system tells AI how to produce it. This skill converts a brand guide into a set of reusable prompts, one for voice, one for design, one for messaging, and one for identity, so any AI tool can produce on-brand output without a designer in the loop every time.
 
-**[Every shared link is a free ad you are leaving blank](skills/og-image-system/SKILL.md)**
+**[Every shared link is a free ad left blank](skills/og-image-system/SKILL.md)**
 
-The image that shows up when someone pastes your link into LinkedIn, Slack, or X is an impression most companies waste. This skill builds an OG image system across the whole site instead of one-off cards. The move is segmentation: tag each page by who it is for, bind a visual mode to each segment, then mass-produce from two locked templates. Includes the full GauntletAI rollout as the worked example.
+The image that shows up when someone pastes your link into LinkedIn, Slack, or X is an impression most companies waste. This skill builds one OG image system for the whole site. The move is segmentation. You tag each page by who it is for, bind a visual mode to each segment, then mass-produce the cards from two locked templates. It covers the dark and light mode logic, the typography and WebP export rules, the inspiration gallery to pull references from, and a sequenced handoff into Claude Design. The full GauntletAI rollout is included as the worked example.
 
 ---
 
