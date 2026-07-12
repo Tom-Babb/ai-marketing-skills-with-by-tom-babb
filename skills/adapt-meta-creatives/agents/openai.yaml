@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adapt Meta Creatives"
+  short_description: "Adapt flattened ads into three Meta formats"
+  default_prompt: "Use $adapt-meta-creatives to adapt a folder of flattened ad PNGs into Meta-ready 1:1, 4:5, and 9:16 outputs with QA."

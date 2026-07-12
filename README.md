@@ -94,6 +94,10 @@ Reve holds the context of a character, environment, and visual style across an e
 
 The month before I built this workflow, we paid an agency $4,000 for a Google Search campaign. This skill walks through the exact replacement: Manus to generate the keyword and messaging report, Claude and the Pipeboard connector to build the campaign directly in Google Ads, and a scheduled daily report so the numbers are waiting when you wake up.
 
+**[The resize work that ate an hour per ad now takes five minutes](skills/adapt-meta-creatives/README.md)**
+
+In 2020 I was in Photoshop adjusting every element of every ad by hand to make the square, the portrait, and the Story versions. Canva's auto-resize got you 70% of the way and still left an hour of nudging. This skill takes one flattened PNG and recomposes it into all three Meta formats, each one built independently, with the copy, logos, charts, and screenshots preserved verbatim and QA gates that flag anything that drifted. If the logo keeps changing in the output, upload the logo file with the source and it holds.
+
 ---
 
 ### Music and Creative Distribution
