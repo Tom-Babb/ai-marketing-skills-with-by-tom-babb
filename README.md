@@ -108,6 +108,14 @@ Four distribution tactics built from real experimentation: naming songs around t
 
 ---
 
+### Research and Diligence
+
+**[Most conference invitations are a pitch wearing a compliment](skills/conference-vetting/SKILL.md)**
+
+Speaking invitations, awards nominations, and sponsorship prospectuses arrive constantly, and in the inbox the good ones look exactly like the bad ones. This skill runs the desk check before you reply: six verifications covering prior editions, domain age, the named speakers, the venue contract, the legal entity, and the sender, then a fit read on whether the room actually holds buyers. The output is a dossier you can forward to whoever owns the budget, the questions to send the organizer, and a method for grading the reply when it comes back. Every finding is labeled verified, organizer-claimed, or could-not-check, so it survives being read by someone who was not there when you researched it. Bring your own audience definition in `references/audience-fit.md`.
+
+---
+
 ### Discoverability
 
 **[The agent is becoming the customer](skills/geo-optimization/SKILL.md)**
